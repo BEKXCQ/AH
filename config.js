@@ -1,9 +1,9 @@
 let fs = require('fs')                    //CREATOR = GEMPY , DEVBOT
 let chalk = require('chalk')
 global.owner = [
-  ['6287898307350'],
-  ['66287898307350'],
-  ['6287898307350', 'gempy', true]  
+  ['62857392175601'],
+  ['6285739217560'],
+  ['6283122197269', 'gempy', true]  
   
 ] 
 global.ownername = [['Gempy']]
